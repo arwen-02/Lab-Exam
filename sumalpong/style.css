@@ -1,0 +1,15 @@
+.page1{
+    position: relative;;
+    background-color: aqua;
+    display: flex;
+    width: 250px;
+    height: 600px;
+}
+
+.container2{
+    position: relative;;
+    background-color: aqua;
+    display: flex;
+    width: 250px;
+    height: 600px;   
+}
