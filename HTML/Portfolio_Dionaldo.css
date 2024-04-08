@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.Container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0 0 30px;
+}
+.Title {
+    font-weight: 600;
+    padding: 20px 10px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.Photo {
+    border-radius: 50%;
+    width: 100%;
+    max-width: 500px;
+    height: 700px;
+    box-shadow: 0 0 20px;
+}
+
+.Caption {
+    font-size: 22px;
+    font-weight: 300;
+    color: black;
+    margin-top: 20px;
+}
